@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Habenular neurophysiology data associated with Sylwestrak*, Jo*, Vesuna* et al. Cell (2022).",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Jo, YoungJu"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
